@@ -5,5 +5,44 @@
 <char id="327068788" name="the benson apparition" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
 <tags>family,every,copy,of,wrapper,offline,is,_free,software,but,is,also,_cat:personalized</tags>
 </char>
+<prop id="list_logo.png" name="GoAnimate Online logo" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="backdrops-sale-for-photography-2.jpg" name="test" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="list_logo.png" name="wrapperofflinelogo" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="Capture.png" name="GGBONDpicture" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="list_logo (1).png" name="wrapperofflinelogo" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="list_logo (1).png" name="wrapper logo" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="wrapperoffline.png" name="wrapperofflinecity" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="y2mate.com_-_Adam_Running_Sound_effect.mp3" name="Adam Running" subtype="soundeffect" duration="3343" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="y2mate.com_-_Adam_Walking_sound_effect.mp3" name="Adam Walking" subtype="soundeffect" duration="3030" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="y2mate.com_-_Adam_Walking_sound_effect.mp3" name="ADAM1" subtype="bgmusic" duration="3030" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="y2mate.com - Punch - Gaming Sound Effect (HD) (1).mp3" name="pUNCH" subtype="bgmusic" duration="1567" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="y2mate.com_-_Adam_Running_Sound_effect.mp3" name="ADAM2" subtype="bgmusic" duration="3343" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="logo.png" name="GoAnimateWrapper" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="584839b584e35b574e74537f.png" name="goanimate" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Adam_Running.mp3" name="Adam_Running" subtype="soundeffect" duration="3369" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Adam_Walking.mp3" name="Adam_Walking" subtype="soundeffect" duration="6034" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="936b71750436c5648c2326d3ae2b176e.png" name="living_room" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="kal.png" name="living_room 2" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="videolist 3.png" name="VIDEOLIST 3" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="videolist 3.png" name="video list template" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="pexels-photo-573552.png" name="Hotel 1" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="sa.png" name="BEDROOM" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="download.png" name="Hotel 2" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="0418.jpg_wh300.png" name="Hotel 3" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="grocerystore.png" name="Grocery Store" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="supermarket.png" name="Supermarket" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Bob_Walking.mp3" name="Bob_Walking" subtype="soundeffect" duration="3249" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Eve_Walking.mp3" name="Eve_Walking" subtype="soundeffect" duration="5250" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="y2mate.com - ABS-CBN Signing Off for Good (5 May 2020) (Vyond Remake).mp3" name="ABS-CBN" subtype="bgmusic" duration="240302" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="0.png" name="abscbn" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="ABS-CBN_Signing_Off_for_Good_5_May_2020_Vyond_Remake[Youtubetomp3.sc].mp3" name="abscbn" subtype="soundeffect" duration="240240" downloadtype="progressive" aid="24304" enable="Y" is_premium="Y" money="0" sharing="0" />
+<sound id="y2mate.com - ABS-CBN Signing Off for Good (5 May 2020) (Vyond Remake).mp3" name="abscbnbc" subtype="bgmusic" duration="240302" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="2018-2020_watermark.swf" name="2018-2020_watermark" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="???????? GG Bond Dinosaur Diary Π?? EP56 Ϯswf" name="ggbondlegacy" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Wrapper Online Watermark.swf" name="2020-2020_wrappervisualplugin watermark" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="Y" money="0" sharing="0" />
+<prop id="Wrapper Offline Watermark.swf" name="2020-2020_wrappervisualplugin2 watermark" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="Y" money="0" sharing="0" />
+<background id="bandicam 2020-11-30 22-34-49-996.png" name="room1" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="bandicam 2020-11-30 22-34-59-447.png" name="room2" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="32.png" name="kapamilya_chanel" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 
 </theme>
